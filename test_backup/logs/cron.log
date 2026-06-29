@@ -1,0 +1,9 @@
+[2026-06-28 00:25:01] [INFO]  ============================================
+[2026-06-28 00:25:01] [INFO]    Backup script started
+[2026-06-28 00:25:01] [INFO]    Source      : /home/vagrant/test
+[2026-06-28 00:25:01] [INFO]    Destination : /home/vagrant/test_backup
+[2026-06-28 00:25:01] [INFO]    Log file    : /home/vagrant/test_backup/logs/backup_2026-06-28_00-25-01.log
+[2026-06-28 00:25:01] [INFO]  ============================================
+[2026-06-28 00:25:01] [INFO]   start compression........
+[2026-06-28 00:25:01] [INFO]   source: /home/vagrant/test
+[2026-06-28 00:25:01] [INFO]   archive: /home/vagrant/test_backup/backup_test_2026-06-28_00-25-01.tar.gz 
